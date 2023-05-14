@@ -1,4 +1,4 @@
-import requests
+import pip._vendor.requests 
 import json
 import time
 
